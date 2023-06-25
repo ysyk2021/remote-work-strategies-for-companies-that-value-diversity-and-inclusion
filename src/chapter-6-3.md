@@ -1,5 +1,4 @@
-Chapter 6: Strategies and Best Practices for Successful Remote Work for Diversity and Inclusion: Using Technology and Tools to Enhance Diversity and Inclusion
-==============================================================================================================================================================
+# Using Technology and Tools to Enhance Diversity and Inclusion
 
 Technology and tools can play an important role in promoting diversity and inclusion in a remote work setting. This chapter will explore some of the ways technology can be used to enhance diversity and inclusion.
 

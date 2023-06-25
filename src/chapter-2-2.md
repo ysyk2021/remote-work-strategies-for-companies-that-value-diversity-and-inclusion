@@ -1,5 +1,4 @@
-Chapter 2: Understanding Remote Work: Types of Remote Work
-==========================================================
+# Types of Remote Work
 
 Remote work, also known as telecommuting or telework, is becoming increasingly popular in today's modern workforce. There are several types of remote work arrangements that companies can offer to their employees.
 

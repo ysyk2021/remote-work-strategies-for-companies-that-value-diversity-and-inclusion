@@ -1,5 +1,4 @@
-Chapter 9: Future of Remote Work for Diversity and Inclusion: Predictions for the Future of Remote Work for Diversity and Inclusion
-===================================================================================================================================
+# Predictions for the Future of Remote Work for Diversity and Inclusion
 
 The COVID-19 pandemic has accelerated the adoption of remote work, and it's likely that this trend will continue in the future. This chapter will explore some predictions for the future of remote work for diversity and inclusion.
 

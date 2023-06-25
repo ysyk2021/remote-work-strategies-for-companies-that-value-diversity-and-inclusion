@@ -1,5 +1,4 @@
-Chapter 2: Understanding Remote Work: Defining Remote Work
-==========================================================
+# Defining Remote Work
 
 Remote work, also known as telecommuting or telework, refers to a work arrangement in which employees are able to work from a location other than the company's physical office. Remote workers may work from home, a co-working space, or any other location with an internet connection.
 

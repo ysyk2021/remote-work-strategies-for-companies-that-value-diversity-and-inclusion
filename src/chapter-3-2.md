@@ -1,5 +1,4 @@
-Chapter 3: The Importance of Diversity and Inclusion in the Workplace: Challenges of Achieving Diversity and Inclusion
-======================================================================================================================
+# Challenges of Achieving Diversity and Inclusion
 
 Diversity and inclusion are essential components of a successful, modern workplace. A diverse workforce brings together a variety of perspectives and experiences, which can lead to more innovative solutions and better business outcomes. However, achieving diversity and inclusion in the workplace is not without its challenges.
 

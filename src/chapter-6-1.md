@@ -1,5 +1,4 @@
-Chapter 6: Strategies and Best Practices for Successful Remote Work for Diversity and Inclusion: Establishing Clear Policies and Expectations for Diversity and Inclusion
-=========================================================================================================================================================================
+# Establishing Clear Policies and Expectations for Diversity and Inclusion
 
 Establishing clear policies and expectations for diversity and inclusion is essential for successful remote work in a diverse and inclusive workplace. This chapter will explore some strategies and best practices for establishing these policies and expectations.
 

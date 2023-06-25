@@ -1,5 +1,4 @@
-Chapter 5: Challenges of Remote Work for Diversity and Inclusion: Building and Maintaining Professional Networks and Relationships
-==================================================================================================================================
+# Building and Maintaining Professional Networks and Relationships
 
 In this chapter, we will explore the challenges of remote work for diversity and inclusion, specifically focusing on building and maintaining professional networks and relationships.
 

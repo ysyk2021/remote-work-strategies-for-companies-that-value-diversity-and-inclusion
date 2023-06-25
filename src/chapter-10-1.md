@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Summary of Key Points
-=============================================
+# Summary of Key Points
 
 This book has explored the importance of diversity and inclusion in a remote work setting, as well as practical strategies for promoting diversity and inclusion in the workplace. Here is a summary of the key points covered:
 
