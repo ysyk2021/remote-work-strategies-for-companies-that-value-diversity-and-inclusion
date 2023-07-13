@@ -6,4 +6,5 @@ Remote work can be isolating and can make it difficult for companies to create a
 
 This book, "Remote Work Strategies for Companies That Value Diversity and Inclusion," provides practical strategies and best practices for creating an inclusive remote work environment. We will explore topics such as building an inclusive workforce, managing remote teams, and collaborating remotely across cultures. By prioritizing diversity and inclusion in your remote work policies, you can create a workplace culture that values every employee and promotes success for all.
 
+
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
