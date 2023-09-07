@@ -1,5 +1,3 @@
-Chapter 9: Future of Remote Work for Diversity and Inclusion
-============================================================
 
 As remote work continues to grow in popularity, the future of remote work for diversity and inclusion is an important area of consideration. This chapter will explore emerging trends, potential developments, and predictions for the future of remote work for diversity and inclusion.
 

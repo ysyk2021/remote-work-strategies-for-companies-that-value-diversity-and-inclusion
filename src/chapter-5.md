@@ -1,5 +1,3 @@
-Chapter 5: Challenges of Remote Work for Diversity and Inclusion
-================================================================
 
 Remote work has created countless opportunities for companies to embrace diversity and inclusion by enabling them to hire talent from anywhere in the world without being limited by geography or other factors. However, it also presents unique challenges that can hinder the success of diversity and inclusion initiatives.
 

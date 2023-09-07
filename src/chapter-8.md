@@ -1,5 +1,3 @@
-Chapter 8: Impact of Remote Work on Business Performance
-========================================================
 
 Remote work can have a significant impact on business performance, particularly in the areas of employee retention and recruitment, cost savings and efficiency improvements, and impacts on innovation and creativity. This chapter will explore these impacts in more detail.
 

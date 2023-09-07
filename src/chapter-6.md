@@ -1,5 +1,3 @@
-Chapter 6: Strategies and Best Practices for Successful Remote Work for Diversity and Inclusion
-===============================================================================================
 
 Remote work can present unique challenges when it comes to promoting diversity and inclusion in the workplace. However, there are several strategies and best practices that companies can implement to ensure that their remote work environment is diverse, inclusive, and supportive of all employees.
 

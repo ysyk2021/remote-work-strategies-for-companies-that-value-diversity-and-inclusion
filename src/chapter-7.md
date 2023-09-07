@@ -1,5 +1,3 @@
-Chapter 7: Essential Skills and Traits for Successful Remote Work for Diversity and Inclusion
-=============================================================================================
 
 Remote work requires a unique set of skills and traits to be successful, particularly in a diverse and inclusive workplace. This chapter will explore some of the essential skills and traits that are necessary for remote workers.
 
