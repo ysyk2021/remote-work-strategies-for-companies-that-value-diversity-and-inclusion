@@ -1,5 +1,4 @@
-Chapter 8: Impacts on Innovation and Creativity
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impacts of remote work strategies on innovation and creativity within organizations that value diversity and inclusion. Remote work can foster a culture of innovation by providing employees with the flexibility, autonomy, and diverse perspectives necessary to generate creative ideas and drive meaningful innovation.
 

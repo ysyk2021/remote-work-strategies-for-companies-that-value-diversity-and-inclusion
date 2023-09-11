@@ -1,5 +1,4 @@
-Chapter 4: Types of Remote Work
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving work landscape, remote work has become increasingly prevalent. There are various types of remote work arrangements that organizations can adopt to accommodate the diverse needs and preferences of their employees. Understanding these different types can help companies design effective remote work strategies that promote diversity and inclusion. In this chapter, we will explore several common types of remote work arrangements.
 

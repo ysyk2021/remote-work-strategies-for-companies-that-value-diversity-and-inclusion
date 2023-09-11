@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Potential Developments
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some of the emerging trends and potential developments in remote work strategies for companies that value diversity and inclusion. These trends indicate the direction in which remote work is evolving and highlight areas where organizations can further enhance their inclusive practices.
 

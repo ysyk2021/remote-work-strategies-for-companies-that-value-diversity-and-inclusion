@@ -1,5 +1,4 @@
-Chapter 6: Improvements in Employee Retention and Recruitment
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant improvements that remote work strategies bring to employee retention and recruitment within organizations that value diversity and inclusion. Remote work offers unique advantages that can attract and retain top talent, foster a diverse workforce, and create an inclusive and supportive work environment.
 

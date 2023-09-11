@@ -1,5 +1,4 @@
-Chapter 6: Adaptability and Flexibility
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a rapidly changing remote work landscape, adaptability and flexibility are crucial skills for both individuals and organizations that prioritize diversity and inclusion. This chapter explores strategies for cultivating adaptability and flexibility in remote teams to navigate challenges, embrace innovation, and foster an inclusive work environment.
 

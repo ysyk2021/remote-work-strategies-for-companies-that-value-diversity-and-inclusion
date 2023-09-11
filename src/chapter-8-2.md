@@ -1,5 +1,4 @@
-Chapter 7: Cost Savings and Efficiency Improvements
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the cost savings and efficiency improvements that organizations can achieve through remote work strategies. By leveraging remote work practices, companies can optimize their resources, reduce expenses, and increase overall productivity while still prioritizing diversity and inclusion.
 

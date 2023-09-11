@@ -1,5 +1,4 @@
-Chapter 6: Communication and Collaboration Across Cultures and Languages
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's globalized work environment, effective communication and collaboration across cultures and languages are key to fostering diversity and inclusion in remote teams. This chapter explores strategies for overcoming language and cultural barriers to promote understanding, inclusivity, and productivity in a diverse remote work setting.
 

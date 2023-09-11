@@ -1,5 +1,4 @@
-Chapter 9: Predictions for the Future of Remote Work for Diversity and Inclusion
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will explore some predictions for the future of remote work strategies for companies that value diversity and inclusion. These predictions provide insights into how remote work practices may evolve in terms of promoting diversity, fostering inclusion, and creating equitable opportunities.
 

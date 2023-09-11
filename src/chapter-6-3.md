@@ -1,5 +1,4 @@
-Chapter 7: Using Technology and Tools to Enhance Diversity and Inclusion
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Technology plays a vital role in creating an inclusive remote work environment. In this chapter, we will explore strategies and techniques for leveraging technology and tools to enhance diversity and inclusion within your organization.*
 

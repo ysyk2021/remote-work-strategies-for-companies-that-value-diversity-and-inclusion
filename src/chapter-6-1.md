@@ -1,5 +1,4 @@
-Chapter 8: Establishing Clear Policies and Expectations for Diversity and Inclusion
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Establishing clear policies and expectations is crucial for fostering a remote work environment that values diversity and inclusion. In this chapter, we will explore strategies and techniques for developing and implementing policies that promote diversity, equity, and inclusion within your organization.*
 

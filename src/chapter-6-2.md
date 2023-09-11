@@ -1,5 +1,4 @@
-Chapter 6: Providing Education and Training on Diversity and Inclusion
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Education and training on diversity and inclusion are crucial for fostering a truly inclusive remote work environment. In this chapter, we will explore strategies and techniques for providing comprehensive education and training programs that promote diversity and inclusion within your company.*
 

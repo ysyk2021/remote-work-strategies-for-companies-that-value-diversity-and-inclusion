@@ -1,5 +1,4 @@
-Chapter 5: Cross-Cultural Awareness and Sensitivity
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a diverse and inclusive remote work environment, cross-cultural awareness and sensitivity are essential for fostering understanding, empathy, and collaboration among team members from different cultural backgrounds. This chapter explores strategies for developing cross-cultural awareness and promoting sensitivity in remote teams.
 
